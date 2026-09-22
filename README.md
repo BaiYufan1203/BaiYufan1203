@@ -3,7 +3,7 @@
 
 <img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 
-## 人
+## 你好
 
 热爱前端、热爱技术。
 
