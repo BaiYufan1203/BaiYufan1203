@@ -26,7 +26,7 @@
 
 ## 📈 Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Minori-ty&theme=dracula)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BaiYufan1203&theme=dracula)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ## 📊 GitHub Stats
 
