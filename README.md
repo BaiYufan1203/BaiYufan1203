@@ -9,23 +9,18 @@
 
 ### **社交主页：**
 
- <img align="right" alt="GIF" src="./image/code.git" width="430" height="100%" />
+ <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
-
--   <a href="https://juejin.cn/user/1214304985296439/posts"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>：
+-   <a href="https://space.bilibili.com/1718249332" title="B站主页"><img src="./images/bilibili.png" height="20" width="50" alt="bilibili"></a>
 
 ### **技术栈:**
-
-<a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
-<a href="https://reactjs.org/"><code><img height="20" src="./images/react.svg"></code></a>
-<a href="https://nextjs.org/"><code><img height="20" src="./images/next.png"></code></a>
-<a href="https://www.tslang.cn/index.html"><code><img height="20" src="./images/typescript.png"></code></a>
-<a href="https://webpack.js.org/"><code><img height="20" src="./images/webpack.svg"></code></a>
-<a href="https://cn.vitejs.dev"><code><img height="20" src="./images/vite.png"></code></a>
-<a href="https://sass-lang.com"><code><img height="20" src="./images/sass2.png"></code></a>
-<a href="https://tailwindcss.com"><code><img height="20" src="./images/tailwindcss.png"></code></a>
-<a href="https://go.dev/"><code><img height="20" src="./images/golang.png"></code></a>
-<a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)\
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white)
+![Dev-C++](https://img.shields.io/badge/Dev--C++-F5A623?style=for-the-badge&logo=devcplusplus&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Github 活跃度
 
